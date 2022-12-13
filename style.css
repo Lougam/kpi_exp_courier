@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+*{
+    padding: 0px;
+    margin: 0px;
+   
+}
+
+
+
+header {
+    font: bold 2em 'work-sans' sans-serif ;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 255, 0.164), rgba(0, 0, 255, 0.623));
+    min-height: 80px;
+    text-align: center;
+    padding-top: 30px;
+
+}
+div{
+    display: inline-block;
+    padding-top: 20px;
+    padding:20px;
+    
+}
+
+footer{
+    text-align: center;
